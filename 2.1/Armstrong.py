@@ -1,4 +1,5 @@
 # Written by Shreyas Khadapkar
+print('Armstrong Number')
 num = input('Enter the Number: ')
 sum = 0
 # num1 = num
