@@ -1,0 +1,3 @@
+Hey AbdulHope you are having a good day
+This is the body of the main context
+This is the text which is getting appended to all the mails
